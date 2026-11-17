@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookMediaPlayer</string>
+    <string name="library_title">Library</string>
+    <string name="library_placeholder">Book import and playback are not available yet.</string>
+</resources>
